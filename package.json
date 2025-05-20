@@ -11,14 +11,21 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
     "firebase": "^11.7.1",
+    "pg": "^8.16.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^7.6.0"
+    "react-router-dom": "^7.6.0",
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "@tailwindcss/postcss": "^4.1.6",
+    "@types/express": "^5.0.2",
+    "@types/node": "^22.15.19",
+    "@types/pg": "^8.15.2",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "@vitejs/plugin-react": "^4.3.4",
